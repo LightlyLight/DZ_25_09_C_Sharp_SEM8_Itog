@@ -1,0 +1,15 @@
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task60\bin\Debug\net6.0\hw_task60.exe
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task60\bin\Debug\net6.0\hw_task60.deps.json
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task60\bin\Debug\net6.0\hw_task60.runtimeconfig.json
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task60\bin\Debug\net6.0\hw_task60.dll
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task60\bin\Debug\net6.0\hw_task60.pdb
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task60\obj\Debug\net6.0\hw_task60.csproj.AssemblyReference.cache
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task60\obj\Debug\net6.0\hw_task60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task60\obj\Debug\net6.0\hw_task60.AssemblyInfoInputs.cache
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task60\obj\Debug\net6.0\hw_task60.AssemblyInfo.cs
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task60\obj\Debug\net6.0\hw_task60.csproj.CoreCompileInputs.cache
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task60\obj\Debug\net6.0\hw_task60.dll
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task60\obj\Debug\net6.0\refint\hw_task60.dll
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task60\obj\Debug\net6.0\hw_task60.pdb
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task60\obj\Debug\net6.0\hw_task60.genruntimeconfig.cache
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task60\obj\Debug\net6.0\ref\hw_task60.dll
